@@ -26,16 +26,6 @@ void	*ft_memset(void *s, int c, size_t n)
 	}
 	return (s);
 }
-/*
-#include <string.h>
-#include <stdio.h>
-
-int	main(void)
-{
-	char	array[100];
-	ft_memset(array, 0, sizeof(array));
-	printf("%d %d %d ", array[0], array[1], array[99]);
-	printf("\n");
-	memset(array, 1, sizeof(array));
-	printf("%d %d %d ", array[0], array[1], array[99]);
-}*/
+DESCRIPTION : the function fills the first n bytes of the memory area
+       pointed to by s with the constant byte c.
+RETURN : pointer to the memory area s.
