@@ -1,3 +1,3 @@
 # libft
 
-une petite bibliothèque contenant des fonctions usuelles codées en C.
+A small library containing common functions coded in C.
