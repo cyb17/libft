@@ -1,3 +1,3 @@
 # libft
 
-Ceci est une petite bibliothèque qui contient des fonctions codées en C.
+une petite bibliothèque contenant des fonctions usuelles codées en C.
